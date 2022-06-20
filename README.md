@@ -1,6 +1,5 @@
 ### ¡Bienvenido a mi GitHub! Soy Jessica Longo 👋
 Graduada del Bootcamp de Henry, Full Stack Developer, con mas de 900hs en codigo!
-
 Donde también me desempeño como Teacher Assistent.
 
 Soy una persona proactiva, de mente analítica, con grandes habilidades de comunicación y empatía.
