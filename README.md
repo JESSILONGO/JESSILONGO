@@ -27,6 +27,7 @@ JavaScript, React, Redux, Node.js, Express, sequelize, PostgreSQL, MongoDB, Type
 🤓actualmente estoy aprendiendo:
 
 #SéProgramar, la primera etapa de Argentina Programa.
+#CodoACodo, con asignacion de vacante (comienzo en Julio)
 
 📫como llegar a mi:
 
