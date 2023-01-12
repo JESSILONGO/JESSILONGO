@@ -9,12 +9,14 @@ También entendí cada instancia del producto, lo que fortaleció mi desempeño 
 Mi experiencia en oratoria, coordinación, gestión de tiempos y organización me convierten en una persona idonea para formar parte de cualquier equipo. Siempre estoy dispuesta e interesada en aprender y continuar desarrollandome al enfrentarme a nuevos retos.
 
 🧠Actualmente estoy aprendiendo:
+
 #Yoprogramo, la segunda etapa de Argentina Programa. Java, Angular, Spring Boot.
 #Ingles (nivel intermedio) 
 
 
 
 📫Contactame!
+
 jessim.longo@gmail.com
 
 Gracias, que tengas un gran día!🙌
