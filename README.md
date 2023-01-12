@@ -1,38 +1,20 @@
 ### ¡Bienvenido a mi GitHub! Soy Jessica Longo 👋
-Graduada del Bootcamp de Henry, Full Stack Developer, con mas de 900hs en codigo!
-Donde también me desempeño como Teacher Assistent.
+Graduada de Henry, como Full Stack developer con experiencia en las tecnologías JavaScript, React, Redux, Node.js, Express, sequelize, PostgreSQL, MongoDB, Trello, Ora y Figma, donde también me desempeño como Henry Assistant, liderando distintos grupos de Teachear Assistants y capacitándoles en softs skills, como la comunicación efectiva y asertiva, empatía, escucha activa y liderazgo transformacional, entre otras. 
 
-Soy una persona proactiva, de mente analítica, con grandes habilidades de comunicación y empatía.
+En el mundo IT descubri como incrementar mi creatividad, desarrollando proyectos reales que pudieran ayudar a otros a traves del trabajo en equipo.
+Me destaco por mi proactividad y compromiso, por generar soluciones e ideas innovadoras y por ayudar a explotar el potencial de mi equipo, reconociendo facilmente sus habilidades personales.
+Disfruto de un ambiente armónico de trabajo, me gusta transmitir alegría, comodidad y motivación a mi entorno. 
+Durante mi estudio como Product Manager aprendi a encontrar oportunidades de mejora, en lugar de problemas, destacando siempre el lado positivo de las cosas y así alcanzar los mejores resultados.
+También entendí cada instancia del producto, lo que fortaleció mi desempeño implementando metodologías agiles y scrum.
+Mi experiencia en oratoria, coordinación, gestión de tiempos y organización me convierten en una persona idonea para formar parte de cualquier equipo. Siempre estoy dispuesta e interesada en aprender y continuar desarrollandome al enfrentarme a nuevos retos.
 
-Mi curiosidad innata me empuja a estar comprometida conmigo misma, para llegar a ser tan competente como sea posible.
-
-Mis experiencias (background) me han fortalecido, tanto en la tolerancia, cómo en el autocontrol ante las adversidades, lo que favorece mi adaptación al cambio.
-
-Considero que estás cualidades potencian mis habilidades de liderazgo!
-
-
-Estoy interesada en el entorno del desarrollo web, área en la que estoy en continua especialización.🧑‍💻 
-
-
-Mi objetivo es evolucionar profesionalmente en un ambiente de trabajo armonioso, donde pueda enfrentar desafíos y continuar con mi desarrollo personal, priorizando siempre la colaboración y participación en equipo, teniendo como objetivo común alcanzar el máximo potencial en cada tarea!🤝
-
-😍Lo que me gusta hacer:
-
-Me gustan los retos, aprender constantemente, ayudar a otros y compartir ideas!
-
-🧠Yo sé / uso:
-
-JavaScript, React, Redux, Node.js, Express, sequelize, PostgreSQL, MongoDB, TypeScript.
-
-🤓actualmente estoy aprendiendo:
-
-#SéProgramar, la primera etapa de Argentina Programa.
-#CodoACodo, con asignacion de vacante (comienzo en Julio)
-
-📫como llegar a mi:
-
-Linkedin: linkedin.com/in/jessica-longo-97b58b224
-
-Correo: jessim.longo@gmail.com
+🧠Actualmente estoy aprendiendo:
+#Yoprogramo, la segunda etapa de Argentina Programa. Java, Angular, Spring Boot.
+#Ingles (nivel intermedio) 
 
 
+
+📫Contactame!
+jessim.longo@gmail.com
+
+Gracias, que tengas un gran día!🙌
